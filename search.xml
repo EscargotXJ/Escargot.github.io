@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[leetcode-medium-q55]]></title>
+    <url>%2Fleetcode-medium-q55%2F</url>
+    <content type="text"><![CDATA[题目描述-Jump Game 题目链接 Given an array of non-negative integers, you are initially positioned at the first index of the array.Each element in the array represents your maximum jump length at that position.Determine if you are able to reach the last index. 描述：给定一个数组，每个数字代表当前能像后走的最大步数，从第一个数字开始，求是否能走到最后一个数字]]></content>
+      <categories>
+        <category>medium</category>
+      </categories>
+      <tags>
+        <tag>leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello, blog!]]></title>
     <url>%2FHello-blog%2F</url>
     <content type="text"><![CDATA[前言 用于作为学习笔记，督促自己及时总结学习、生活中的收获~ 一直想搭建一个自己的blog，赶着2018年的尾巴，终于大致完工，也希望2019年能有一个全新的开始~~ 本博客主要会记录一些cv、机器学习、算法方面的知识，也会分享一些比赛经验，如有不足，欢迎评论！ 搭建blog记录 第一篇就记录一下搭建博客的过程吧 hexo+github搭建博客 next主题设置]]></content>
