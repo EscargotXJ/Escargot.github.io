@@ -3,14 +3,12 @@
   <entry>
     <title><![CDATA[Hello, blog!]]></title>
     <url>%2FHello-blog%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[前言]]></content>
       <categories>
         <category>Hexo</category>
-        <category>Hello</category>
       </categories>
       <tags>
         <tag>Hexo</tag>
-        <tag>Hello</tag>
       </tags>
   </entry>
 </search>
